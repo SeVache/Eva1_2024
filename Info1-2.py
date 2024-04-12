@@ -1,0 +1,7 @@
+nombre=input("ingresar nombre")
+apellido=input("ingresar apellido")
+asignatura=input("ingresar asignatura")
+sede=input("ingresar sede de Duoc")
+semestre=input("ingresar semestre")
+year=input("ingresar año")
+print("hola",nombre,apellido,"de la asignatura",asignatura,"de la sede",sede,"del semestre",semestre,"del año",year)
